@@ -1,5 +1,4 @@
-#include<stdio.h>       
-main(){
-printf("he boy");      
-
-} ;     
+#include<stdio.h>
+int main {
+	printf("hello world\n");
+}
